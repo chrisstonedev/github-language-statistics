@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubLanguageStatistics", "GitHubLanguageStatistics.csproj", "{04193E56-635E-4A11-961C-67ABA700676B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04193E56-635E-4A11-961C-67ABA700676B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04193E56-635E-4A11-961C-67ABA700676B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04193E56-635E-4A11-961C-67ABA700676B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04193E56-635E-4A11-961C-67ABA700676B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E4A944-1F6F-4B93-BB79-076F5FDCF44F}
+	EndGlobalSection
+EndGlobal
